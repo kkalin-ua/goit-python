@@ -1,2 +1,0 @@
-print('ss')
-print('ss')
